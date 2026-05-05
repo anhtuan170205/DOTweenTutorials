@@ -1,7 +1,7 @@
 using UnityEngine;
 using DG.Tweening;
 
-public class CubeController : MonoBehaviour
+public class CubeControllerPart1 : MonoBehaviour
 {
     void Start()
     {
