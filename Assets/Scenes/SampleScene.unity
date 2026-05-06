@@ -778,10 +778,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1648537785}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2966ef81087a543f3a0308d7713c7397, type: 3}
+  m_Script: {fileID: 11500000, guid: c1607704ca62c4b09b5f14b8a2c2b9d0, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CubeControllerPart4
-  _cube: {fileID: 1648537790}
+  m_EditorClassIdentifier: Assembly-CSharp::CubeControllerPart5
+  _cube: {fileID: 1648537785}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
